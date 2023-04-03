@@ -1,12 +1,5 @@
-![logo](_media/icon.svg)
+> 立于皓月之边，不弱星光之势
 
-# docsify <small>3.5</small>
-
-> A magical documentation site generator.
-
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
-
-[GitHub](https://github.com/docsifyjs/docsify/)
+[GitHub](https://github.com/qingchuancoder)
+[Gitee](https://gitee.com/qingchuancoder)
 [Get Started](README)
