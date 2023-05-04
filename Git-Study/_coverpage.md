@@ -1,5 +1,5 @@
-> 立于皓月之边，不弱星光之势
+![logo](assets/Git-Logo-1280x800.png)
 
 [GitHub](https://github.com/qingchuancoder)
 [Gitee](https://gitee.com/qingchuancoder)
-[Get Started](README)
+[Get Started](/Git-Study/Git.md)
